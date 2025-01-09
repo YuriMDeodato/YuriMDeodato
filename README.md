@@ -22,7 +22,7 @@
   <img align="center" alt="reacte-native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div><br/>
 
-Trocando de área, e fazendo o que realmente gosto, estudando Tecnologia da Programação, futuro DEV!
+Trocando de área, e fazendo o que realmente gosto, Tecnologia da Programação, sou DEV!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
