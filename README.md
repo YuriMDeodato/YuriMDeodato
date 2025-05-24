@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000bfbf&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Yuri+Mendes+🤪;I´m+from+Brasil,+SP;Be+Welcome!+:%50)](https://git.io/typing-svg)
 
+![Commits](https://img.shields.io/github/commit-activity/y/YuriMDeodato/YuriMDeodato)
+
+
+
 <div align="center">  
   <img width="100%" height="180px" src="https://github-readme-stats.vercel.app/api?username=YuriMDeodato&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Yuri Mendes Deodato github stats" /> 
 
