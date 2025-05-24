@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-![Commits](https://img.shields.io/github/commit-activity/y/YuriMDeodato/YuriMDeodato)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000bfbf&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Yuri+Mendes+🤪;I´m+from+Brasil,+SP;Be+Welcome!+:%50)](https://git.io/typing-svg)
 
